@@ -272,7 +272,9 @@ Potential improvements to the project include:
 ---
 
 👨‍💻 Author
+
 Priyanshu Gaur
+
 Data Analytics | Python | SQL | PostgreSQL | Power BI
----
+
 ⭐ If you find this project useful, feel free to star the repository!
